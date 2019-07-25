@@ -1,0 +1,129 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.footer {
+    background: url(footer-banner.jpg) no-repeat;
+    
+	/* margin-rigth:200px;*/
+	
+   /* min-height: 570px;*/
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+}
+
+.footer-text {
+    text-align: center;
+	margin-left:0%;
+	margin-right:0%;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 4%;
+    padding: 2em 0px;
+}
+.footer-right input[type="text"]:nth-child(1) {
+    margin-right: 10px;
+}
+.footer-right input[type="text"] {
+    width: 49%;
+    color: #999999;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    padding: 10px 15px;
+    margin-bottom: 1em;
+    border: solid 1px #D5D4D4;
+    -webkit-appearance: none;
+    background: rgba(102, 102, 102, 0.15);
+    font-weight: 600;
+    border-radius: 0.3em;
+}
+
+.footer-right textarea {
+    resize: none;
+    background: rgba(102, 102, 102, 0.15);
+    width: 100%;
+    margin: 0 auto;
+    color: #999999;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    padding: 15px 15px;
+    border: solid 1px #D5D4D4;
+    min-height: 13em;
+	
+}
+
+
+
+
+.contact-but form input[type="submit"]:hover {
+ background: #72a8c7;
+border: solid 1px #72a8c7;
+}
+.contact-but form input[type="submit"]{
+	outline: none;
+color: #fff;
+padding: 12px 36px;
+font-family: 'Open Sans', sans-serif;
+font-size: 17px;
+font-weight: 600;
+margin-top: 1.5em;
+letter-spacing: 1px;
+border-radius: 0.3em;
+}
+
+
+
+.f-1 span {
+    display: inline-block;
+    vertical-align: middle;
+box-sizing: border-box;
+}
+.f-1 p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+
+.f-1 span {
+    display: inline-block;
+    vertical-align: middle;
+	box-sizing: border-box;
+}
+
+.glyphicon {
+    color: #fff;
+    font-size: 2em;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+	font-family: 'Glyphicons Halflings';
+font-style: normal;
+font-weight: normal;
+line-height: 1;
+    box-sizing: border-box;
+}
+
+
+.footer-top h3 {
+    color: #fff;
+}
+.heading h3 {
+    font-size: 2em;
+    font-weight: 700;
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+footer-top {
+    text-align: center;
+}
